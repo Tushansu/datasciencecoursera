@@ -1,2 +1,2 @@
 # datasciencecoursera
-Its a repository built as aprt of my project work on coursera .
+Its a repository built as a part of my project work on coursera .
